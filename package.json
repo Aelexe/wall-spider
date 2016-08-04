@@ -1,0 +1,12 @@
+{
+  "name": "wall-spider",
+  "version": "1.0.1",
+  "description": "Description here.",
+  "main": "wallSpider.js",
+  "keywords": [
+    "facebook",
+    "graph"
+  ],
+  "author": "Aelexe",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+# Directories #
+dist/
+node_modules/
+ 
+######################
+# Eclipse
+######################
+
+.project
